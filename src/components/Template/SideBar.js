@@ -12,26 +12,26 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Yapan &apos;Liu</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">yapanliu@gmail.com</a></p>
+        <h2>Yapan Liu</h2>
+        {/* <p><a href="mailto:yliu88@syr.edu">yliu88@syr.edu</a></p> */}
+        <ContactIcons />
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hello, my name is Yapan Liu, I&apos;m a Ph.D. candidate from <a href="http://bestlab.syr.edu/">BEST Lab</a> at Syracuse University .
+      <p>Hello, my name is Yapan Liu. I&apos;m a Ph.D. candidate in the Mechnical & Aerospace Engineering at Syracuse University. I work with <a href="https://ecs.syracuse.edu/faculty-staff/bing-dong" target="_blank" rel="noopener noreferrer"> Dr. Bing Dong</a> in the Built Environment Science & Technology<a href="http://bestlab.syr.edu/" target="_blank" rel="noopener noreferrer"> (BEST) Lab</a>.
       </p>
       <ul className="actions">
         <li>
-          <Link to="/resume" className="button">Learn More</Link>
+          <Link to="/cv" className="button">Learn More</Link>
         </li>
       </ul>
     </section>
 
     <section id="footer">
-      <ContactIcons />
-      <p className="copyright">Copyright &copy; Yapan Liu <Link to="/">yapan.page</Link>.</p>
-      <p className="acknowledgements">Built on MICHAEL D&apos;ANGELO&apos;s work <Link to="/">mldangelo.com</Link>.
+      {/* <ContactIcons /> */}
+      <p className="copyright">COPYRIGHT &copy;2022 BY YAPAN LIU <br /> Credit to <a href="https://github.com/mldangelo/personal-site" target="_blank" rel="noopener noreferrer">MICHAEL D&apos;ANGELO</a>.
       </p>
     </section>
   </section>

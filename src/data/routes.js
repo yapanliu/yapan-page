@@ -9,17 +9,29 @@ const routes = [
   //   path: '/about',
   // },
   {
-    label: 'Resume',
-    path: '/resume',
+    label: 'Publications',
+    path: '/publications',
+  },
+  // {
+  //   label: 'Projects',
+  //   path: '/projects',
+  // },
+  {
+    label: 'Teaching',
+    path: '/teaching',
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'CV',
+    path: '/CV',
   },
-  {
-    label: 'Stats',
-    path: '/stats',
-  },
+  // {
+  //   label: 'Resume',
+  //   path: '/resume',
+  // },
+  // {
+  //   label: 'Stats',
+  //   path: '/stats',
+  // },
   // {
   //   label: 'Contact',
   //   path: '/contact',

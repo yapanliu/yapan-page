@@ -3,24 +3,44 @@
 
 const skills = [
   {
-    title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'Data Science'],
+    title: 'Python',
+    competency: 5,
+    category: ['Programming Languages', 'Data Science'],
   },
   {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python'],
-  },
-  {
-    title: 'Mypy',
+    title: 'MATLAB',
     competency: 3,
-    category: ['Python'],
+    category: ['Programming Languages'],
   },
   {
-    title: 'Pylint',
+    title: 'POSTGRESQL',
+    competency: 3,
+    category: ['Data Science'],
+  },
+  {
+    title: 'MySQL',
+    competency: 3,
+    category: ['Data Science'],
+  },
+  {
+    title: 'HTML',
     competency: 4,
-    category: ['Data Engineering', 'Python'],
+    category: ['Web Development'],
+  },
+  {
+    title: 'CSS',
+    competency: 4,
+    category: ['Web Development'],
+  },
+  {
+    title: 'JavaScript',
+    competency: 3,
+    category: ['Web Development', 'Programming Languages'],
+  },
+  {
+    title: 'React',
+    competency: 2,
+    category: ['Web Development'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
