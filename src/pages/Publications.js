@@ -12,7 +12,7 @@ const markdown = raw('../data/publications.md');
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
-const Index = () => (
+const Publication = () => (
   <Main
     description={"Yapan Liu's personal website."
     + 'Ph.D. Candidate from Syracuse University.'}
@@ -25,9 +25,10 @@ const Index = () => (
       </header>
 
       <ReactMarkdown
+        linkTarget="_blank"
         source={markdown}
         renderers={{
-          Link: LinkRenderer,
+          a: LinkRenderer,
         }}
         escapeHtml={false}
       />
@@ -36,4 +37,4 @@ const Index = () => (
   </Main>
 );
 
-export default Index;
+export default Publication;
