@@ -21,7 +21,6 @@ const positions = [
       'Analyze flight log data using Python programming language',
       'Build 3D drone models and make animations by using FreeCAD and Blender software',
       'Work with Cesium software to simulate drone missions',
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
     ],
   },
   {

@@ -28,7 +28,7 @@ const teaching = [
     daterange: 'February 2021 - May 2021',
     points: [
       'Teach part of the class on topics: Convex Optimization, MPC, State Space Model, etc.',
-      'Assist the professor to assign and grade homework, projects, and presentations',
+      'Assist the professor to design and grade homework, projects, and presentations',
       'Host office hours and answer questions from students',
     ],
   },
