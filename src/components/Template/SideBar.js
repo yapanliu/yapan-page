@@ -13,8 +13,8 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Yapan Liu</h2>
-        {/* <p><a href="mailto:yliu88@syr.edu">yliu88@syr.edu</a></p> */}
-        <ContactIcons />
+        <p>Ph.D. Candidate | Data Analyst <br /> Building Control Researcher</p>
+        {/* <ContactIcons /> */}
       </header>
     </section>
 
@@ -30,7 +30,7 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
-      {/* <ContactIcons /> */}
+      <ContactIcons />
       <p className="copyright">COPYRIGHT &copy;2022 BY YAPAN LIU <br /> Credit to <a href="https://github.com/mldangelo/personal-site" target="_blank" rel="noopener noreferrer">MICHAEL D&apos;ANGELO</a>.
       </p>
     </section>

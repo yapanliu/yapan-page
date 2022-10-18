@@ -1,21 +1,38 @@
 const courses = [
   {
-    title: 'Convex Optimization',
-    number: 'EE 364a',
-    link: 'http://stanford.edu/class/ee364a/',
-    university: 'Stanford',
+    title: 'Python Programming',
+    number: 'CPS 500',
+    university: 'Syracuse University',
   },
   {
-    title: 'Machine Learning',
-    number: 'CS 229',
-    link: 'http://cs229.stanford.edu/',
-    university: 'Stanford',
+    title: 'Statistics for Engineers',
+    number: 'ECS 526',
+    university: 'Syracuse University',
   },
   {
-    title: 'Convolutional Neural Networks for Visual Recognition',
-    number: 'CS 231n',
-    link: 'http://cs231n.stanford.edu/',
-    university: 'Stanford',
+    title: 'Nonlinear and Adaptive Control',
+    number: 'MAE 600',
+    university: 'Syracuse University',
+  },
+  {
+    title: 'Control & Optimization of Building Energy Systems',
+    number: 'MAE 600',
+    university: 'Syracuse University',
+  },
+  {
+    title: 'Simulation and Data Analytics',
+    number: 'ECS 630',
+    university: 'Syracuse University',
+  },
+  {
+    title: 'Geographic Information Systems',
+    number: 'GEO 683',
+    university: 'Syracuse University',
+  },
+  {
+    title: 'Information Visualization',
+    number: 'IST 719',
+    university: 'Syracuse University',
   },
 ];
 

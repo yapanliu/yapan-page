@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Job = ({ data }) => (
+const Service = ({ data }) => (
   <article className="jobs-container">
     <header>
       <h4><a href={data.link} target="_blank" rel="noreferrer noopener">{data.company}</a></h4>
@@ -16,7 +16,7 @@ const Job = ({ data }) => (
   </article>
 );
 
-Job.propTypes = {
+Service.propTypes = {
   data: PropTypes.shape({
     link: PropTypes.string.isRequired,
     company: PropTypes.string.isRequired,
@@ -26,4 +26,4 @@ Job.propTypes = {
   }).isRequired,
 };
 
-export default Job;
+export default Service;

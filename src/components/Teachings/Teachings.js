@@ -1,11 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Job = ({ data }) => (
+const Teachings = ({ data }) => (
   <article className="jobs-container">
     <header>
-      <h4><a href={data.link} target="_blank" rel="noreferrer noopener">{data.company}</a></h4>
-      <p className="daterange"> {data.position}</p>
+      <h4>{data.course}</h4>
+      <p className="daterange">{data.position} for {data.professor}</p>
+      {/* <p className="daterange">{data.position}</p> */}
       <p className="daterange"> {data.daterange}</p>
     </header>
     <ul className="points">
@@ -16,14 +17,14 @@ const Job = ({ data }) => (
   </article>
 );
 
-Job.propTypes = {
+Teachings.propTypes = {
   data: PropTypes.shape({
-    link: PropTypes.string.isRequired,
-    company: PropTypes.string.isRequired,
+    professor: PropTypes.string.isRequired,
+    course: PropTypes.string.isRequired,
     position: PropTypes.string.isRequired,
     daterange: PropTypes.string.isRequired,
     points: PropTypes.arrayOf(PropTypes.string).isRequired,
   }).isRequired,
 };
 
-export default Job;
+export default Teachings;

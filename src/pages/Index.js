@@ -25,7 +25,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About me</Link></h2>
+          <h2 data-testid="heading">About me</h2>
           {/* <p> This website is under development. </p> */}
         </div>
       </header>

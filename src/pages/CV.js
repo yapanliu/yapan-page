@@ -5,17 +5,20 @@ import Main from '../layouts/Main';
 
 import Education from '../components/CV/Education';
 import Experience from '../components/CV/Experience';
+import Service from '../components/CV/Service';
 import Skills from '../components/CV/Skills';
 import Courses from '../components/CV/Courses';
 
 import courses from '../data/cv/courses';
 import degrees from '../data/cv/degrees';
 import positions from '../data/cv/positions';
+import servicePositions from '../data/cv/servicePositions';
 import { skills, categories } from '../data/cv/skills';
 
 const sections = [
   'Education',
   'Experience',
+  'Service',
   'Skills',
   'Courses',
 ];
@@ -40,6 +43,7 @@ const Resume = () => (
       </header>
       <Education data={degrees} />
       <Experience data={positions} />
+      <Service data={servicePositions} />
       <Skills skills={skills} categories={categories} />
       <Courses data={courses} />
 

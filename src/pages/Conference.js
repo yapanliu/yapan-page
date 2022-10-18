@@ -7,7 +7,8 @@ import raw from 'raw.macro';
 import Main from '../layouts/Main';
 
 // uses babel to load contents of file
-const markdown = raw('../data/publications.md');
+const markdownPre = raw('../data/presentations.md');
+const markdownConf = raw('../data/conference.md');
 
 // Make all hrefs react router links
 const LinkRenderer = ({ ...children }) => <Link {...children} />;
@@ -20,13 +21,30 @@ const Publication = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"> Publications </h2>
+          <h2 data-testid="heading"> Presentations </h2>
         </div>
       </header>
 
       <ReactMarkdown
         linkTarget="_blank"
-        source={markdown}
+        source={markdownPre}
+        renderers={{
+          Link: LinkRenderer,
+        }}
+        escapeHtml={false}
+      />
+    </article>
+
+    <article className="post" id="index">
+      <header>
+        <div className="title">
+          <h2 data-testid="heading"> Conference </h2>
+        </div>
+      </header>
+
+      <ReactMarkdown
+        linkTarget="_blank"
+        source={markdownConf}
         renderers={{
           Link: LinkRenderer,
         }}

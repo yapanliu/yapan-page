@@ -12,7 +12,7 @@
 
 *  [**A guideline to document occupant behavior models for advanced building controls**](https://doi.org/10.1016/j.buildenv.2022.109195)  
    Dong, B., Markovic, R., Carlucci, S., **Liu, Y.**, Wagner, A., Liguori, A., ... & Kang, X.  
-	 Journal of Building and Environment 
+	 Journal of Building and Environment  
 	 2022/5/20   
 
 *  [**A Global Building Occupant Behavior Database. Figshare**](https://doi.org/10.6084/m9.figshare.16920118.v6)  
@@ -27,7 +27,7 @@
 
 *  [**Occupant behavior modeling methods for resilient building design, operation and policy at urban scale: A review**](https://doi.org/10.1016/j.apenergy.2021.116856)  
    Dong, B., **Liu, Y.**, Fontenot, H., Ouf, M., Osman, M., Chong, A., ... & Carlucci, S.  
-	 Journal of Applied Energy
+	 Journal of Applied Energy  
 	 2021/7/1   
 
 *  [**A novel mobility-based approach to derive urban-scale building occupant profiles and analyze impacts on building energy consumption**](https://doi.org/10.1016/j.apenergy.2020.115656)  

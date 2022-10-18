@@ -12,6 +12,10 @@ const routes = [
     label: 'Publications',
     path: '/publications',
   },
+  {
+    label: 'Conference',
+    path: '/conference',
+  },
   // {
   //   label: 'Projects',
   //   path: '/projects',
