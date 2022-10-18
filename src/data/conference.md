@@ -5,7 +5,7 @@ September 21-23, 2022 - Online
 **4th Plenary Meeting of Annex 81**  
 May 9-10, 2022 - Online  
 
-**2nd Working Meeting of Annex 81**  
+**2nd Working Meeting of Annex 82**  
 April 4-5, 2022 - Online  
 
 **8th Expert meeting of Annex 79**  
