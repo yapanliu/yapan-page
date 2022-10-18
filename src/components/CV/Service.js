@@ -12,7 +12,7 @@ const Service = ({ data }) => (
     {data.map((job) => (
       <Serve
         data={job}
-        key={job.company}
+        key={job.daterange}
       />
     ))}
   </div>

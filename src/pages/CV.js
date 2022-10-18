@@ -8,6 +8,7 @@ import Experience from '../components/CV/Experience';
 import Service from '../components/CV/Service';
 import Skills from '../components/CV/Skills';
 import Courses from '../components/CV/Courses';
+// import BackToTopBtn from '../components/BackToTopBtn';
 
 import courses from '../data/cv/courses';
 import degrees from '../data/cv/degrees';

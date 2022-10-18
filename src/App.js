@@ -1,5 +1,6 @@
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import BackToTopBtn from './components/BackToTopBtn';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
 
@@ -42,6 +43,7 @@ const App = () => (
         </Switch>
       </Suspense>
     </BrowserRouter>
+    <BackToTopBtn />
   </>
 );
 
