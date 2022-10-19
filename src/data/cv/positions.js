@@ -8,7 +8,7 @@ const positions = [
       'Process geospatial data and time-series data through big data analytics',
       'Use machine learning to study human mobility and occupant behaviors at urban scale',
       'Develop advanced building control algorithms (e.g. MPC, Reinforcement Learning)',
-      'Be dedicated to presenting research results using visualization techniques',
+      'Dedicated to presenting research results using visualization techniques',
     ],
   },
   {
@@ -38,7 +38,7 @@ const positions = [
     company: 'Jiangsu Olive Sensors High-tech Co., Ltd.',
     position: 'Product Development Engineer',
     link: 'http://en.yos.net.cn/',
-    daterange: 'July 2017 - September 2017',
+    daterange: 'July 2014 - April 2015',
     points: [
       'Assist to develop 6 new products using the process of Advanced Product Quality Planning (APQP)',
       'Worked with a group of 10 engineers by using the skill of problem-solving',
