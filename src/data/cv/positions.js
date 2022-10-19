@@ -3,7 +3,7 @@ const positions = [
     company: 'BEST Lab at Syracuse University',
     position: 'Research Assistant',
     link: 'http://bestlab.syr.edu/',
-    daterange: 'January 2014 - Present',
+    daterange: 'August 2019 - Present',
     points: [
       'Process geospatial data and time-series data through big data analytics',
       'Use machine learning to study human mobility and occupant behaviors at urban scale',
@@ -37,7 +37,7 @@ const positions = [
   {
     company: 'Jiangsu Olive Sensors High-tech Co., Ltd.',
     position: 'Product Development Engineer',
-    link: 'https://www.marquardt-switches.com/index.html?&no_cache=1',
+    link: 'http://en.yos.net.cn/',
     daterange: 'July 2017 - September 2017',
     points: [
       'Assist to develop 6 new products using the process of Advanced Product Quality Planning (APQP)',
