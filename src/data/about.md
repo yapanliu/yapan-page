@@ -8,6 +8,7 @@ I'm a Ph.D. Candidate at Syracuse University, NY and focus on using advanced mac
 - Smart Cities
 - Human Mobility
 - Smart Buildings
+- Machine Learning
 - Building to Grid Integration
 - Building Occupant Behavior
 - Spatial Temporal Data Analysis

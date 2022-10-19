@@ -1,5 +1,15 @@
 const teaching = [
   {
+    professor: 'Dr. Bing Dong',
+    course: 'MAE 600: Machine Learning for Mechanical Engineers',
+    position: 'Guest Speaker',
+    daterange: 'Fall 2020 & Fall 2021',
+    points: [
+      'Overview introduction of Reinforcement Learning to graduate students',
+      'Present recent research on building control utilizing reinforcement learning technique',
+    ],
+  },
+  {
     professor: 'Dr. Teng Zhang',
     course: 'ECS 221: Statics',
     position: 'Teaching Assistant',
@@ -29,7 +39,7 @@ const teaching = [
     points: [
       'Teach part of the class on topics: Convex Optimization, MPC, State Space Model, etc.',
       'Assist the professor to design and grade homework, projects, and presentations',
-      'Host office hours and answer questions from students',
+      'Host office hours and answer questions from both graduate and undergraduate students',
     ],
   },
   {
