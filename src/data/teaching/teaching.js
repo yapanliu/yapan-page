@@ -6,7 +6,7 @@ const teaching = [
     daterange: 'Fall 2020 & Fall 2021',
     points: [
       'Overview introduction of Reinforcement Learning to graduate students',
-      'Present recent research on building control utilizing reinforcement learning technique',
+      'Present recent research on building control utilizing Reinforcement Learning technique',
     ],
   },
   {
