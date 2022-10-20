@@ -5,11 +5,18 @@ import dayjs from 'dayjs';
 const Cell = ({ data }) => (
   <div className="cell-container">
     <article className="mini-post">
-      <header>
-        <h3><a href={data.link}>{data.title}</a></h3>
-        <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
+      <header id={data.title.replace(/\s/g, '-')}>
+        <h3>{data.title}</h3>
+
+        {data.publish === 'true' ? (
+          <p className="daterange">
+            <a href={data.paperLink} target="_blank" rel="noopener noreferrer">Paper Published</a>
+          </p>
+        ) : null }
+
+        <time className="published">Posted: {dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
-      <a href={data.link} className="image">
+      <a href={data.link} target="_blank" rel="noopener noreferrer" className="image">
         <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
       </a>
       <div className="description">
@@ -23,6 +30,9 @@ Cell.propTypes = {
   data: PropTypes.shape({
     title: PropTypes.string.isRequired,
     link: PropTypes.string,
+    subtitle: PropTypes.string,
+    publish: PropTypes.bool.isRequired,
+    paperLink: PropTypes.string,
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,

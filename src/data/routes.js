@@ -9,8 +9,8 @@ const routes = [
   //   path: '/about',
   // },
   {
-    label: 'Publications',
-    path: '/publications',
+    label: 'Publication',
+    path: '/publication',
   },
   {
     label: 'Conference',
@@ -25,9 +25,14 @@ const routes = [
     path: '/teaching',
   },
   {
+    label: 'BLOG',
+    path: '/blog',
+  },
+  {
     label: 'CV',
     path: '/cv',
   },
+
   // {
   //   label: 'Resume',
   //   path: '/resume',

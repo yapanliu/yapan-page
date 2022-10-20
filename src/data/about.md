@@ -6,7 +6,7 @@ I'm a Ph.D. Candidate at Syracuse University, NY and focus on using advanced mac
 # Research Interests
 
 - Smart Cities
-- Human Mobility [Demo](/cv)
+- Human Mobility ([Demo](/blog#Human-Mobility-Tracking))
 - Smart Buildings
 - Machine Learning
 - Building to Grid Integration

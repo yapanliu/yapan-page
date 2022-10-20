@@ -12,9 +12,9 @@ const { PUBLIC_URL } = process.env;
 // const About = lazy(() => import('./pages/About'));
 // const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
-const Publications = lazy(() => import('./pages/Publications'));
+const Publication = lazy(() => import('./pages/Publication'));
 const Conference = lazy(() => import('./pages/Conference'));
-// const Projects = lazy(() => import('./pages/Projects'));
+const Blog = lazy(() => import('./pages/Blog'));
 const CV = lazy(() => import('./pages/CV'));
 const Teaching = lazy(() => import('./pages/Teaching'));
 // const Resume = lazy(() => import('./pages/Resume'));
@@ -30,19 +30,19 @@ const App = () => (
         <Switch>
           <Route exact path="/" component={Index} />
           {/* <Route path="/about" component={About} /> */}
-          <Route path="/publications" component={Publications} />
+          <Route path="/publication" component={Publication} />
           <Route path="/conference" component={Conference} />
-          {/* <Route path="/projects" component={Projects} /> */}
-          <Route path="/CV" component={CV} />
           <Route path="/teaching" component={Teaching} />
-          {/* <Route path="/teaching" component={Teaching} /> */}
-          {/* <Route path="/resume" component={Resume} /> */}
+          <Route path="/blog" component={Blog} />
+          <Route path="/CV" component={CV} />
+
           {/* <Route path="/stats" component={Stats} /> */}
           {/* <Route path="/contact" component={Contact} /> */}
           <Route component={NotFound} status={404} />
         </Switch>
       </Suspense>
     </BrowserRouter>
+
     <BackToTopBtn />
   </>
 );
