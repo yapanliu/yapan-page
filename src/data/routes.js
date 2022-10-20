@@ -26,7 +26,7 @@ const routes = [
   },
   {
     label: 'CV',
-    path: '/CV',
+    path: '/cv',
   },
   // {
   //   label: 'Resume',
