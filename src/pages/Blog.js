@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
 
 import Cell from '../components/Blogs/Cell';
-import YoutubeEmbed from '../components/Blogs/YoutubeEmbed';
+// import YoutubeCell from '../components/Blogs/YoutubeEmbed';
 import data from '../data/blogs';
 
 const Projects = () => (
@@ -25,10 +25,9 @@ const Projects = () => (
           key={project.title}
         />
       ))}
-      <div className="App">
-        <h1>Youtube Embed</h1>
-        <YoutubeEmbed embedId="m2b41ppw03w" />
-      </div>
+      {/* <div className="App">
+        <YoutubeCell title="Human Mobility Tracking" date="2022-10-23" embedId="m2b41ppw03w" />
+      </div> */}
     </article>
   </Main>
 );
