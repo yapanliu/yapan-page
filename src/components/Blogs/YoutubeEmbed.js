@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
-import '../../static/css/components/_youtube-embed.css';
+import '../../static/css/components/_youtube-embed.scss';
 
 const YoutubeEmbed = ({ embedId }) => (
   <div className="video-responsive">

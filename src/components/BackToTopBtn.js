@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { FaAngleUp } from 'react-icons/fa';
 
-import '../static/css/components/_back-to-top-btn.css';
+import '../static/css/components/_back-to-top-btn.scss';
 
 const BackToTopBtn = () => {
   const [showTopBtn, setShowTopBtn] = useState(false);
