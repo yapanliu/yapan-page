@@ -15,8 +15,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Publication = () => (
   <Main
-    description={"Yapan Liu's personal website."
-    + 'Ph.D. Candidate from Syracuse University.'}
+    description="A list of presentations and conference attended."
   >
     <article className="post" id="index">
       <header>

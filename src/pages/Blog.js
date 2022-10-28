@@ -10,7 +10,7 @@ import data from '../data/blogs';
 const Projects = () => (
   <Main
     title="Blogs"
-    description="Posts created by Yapan Liu."
+    description="Research blogs and videos."
   >
     <article className="post" id="blogs">
       <header>
