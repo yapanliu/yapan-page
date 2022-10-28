@@ -8,7 +8,7 @@ const Cell = ({ data }) => (
       <header id={data.title.replace(/\s/g, '-')}>
         <h3>{data.title}</h3>
 
-        {data.publish === 'true' ? (
+        {data.publish === true ? (
           <p className="daterange">
             <a href={data.paperLink} target="_blank" rel="noopener noreferrer">Paper Published</a>
           </p>
