@@ -14,6 +14,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Publication = () => (
   <Main
+    title="Publication"
     description="A list of publications."
   >
     <article className="post" id="index">

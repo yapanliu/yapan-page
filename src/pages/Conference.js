@@ -15,6 +15,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 
 const Publication = () => (
   <Main
+    title="Conference"
     description="A list of presentations and conference attended."
   >
     <article className="post" id="index">
