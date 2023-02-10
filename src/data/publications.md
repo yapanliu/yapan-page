@@ -11,7 +11,8 @@
 	 2022/6/28   
 
 *  [**A guideline to document occupant behavior models for advanced building controls**](https://doi.org/10.1016/j.buildenv.2022.109195)  
-   Dong, B., Markovic, R., Carlucci, S., **Liu, Y.**, Wagner, A., Liguori, A., ... & Kang, X.  
+   *2022 Best Paper Award - Building and Environment*  
+	 Dong, B., Markovic, R., Carlucci, S., **Liu, Y.**, Wagner, A., Liguori, A., ... & Kang, X.  
 	 Journal of Building and Environment  
 	 2022/5/20   
 

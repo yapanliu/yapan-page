@@ -1,6 +1,19 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: '2022 BAE Best Paper Award',
+    subtitle: 'Visualization of Human Mobility Tracking',
+    publish: true,
+    paperLink: 'https://doi.org/10.1016/j.buildenv.2022.109195',
+    image: '/images/projects/bae-journal.jpg',
+    link: 'https://www.linkedin.com/posts/building-and-environment_building-and-environment-is-pleased-to-announce-activity-7026788677871681537-EnbN?utm_source=share&utm_medium=member_desktop',
+    date: '2023-02-01',
+    desc:
+      'A guideline to document occupant behavior models for advanced building controls. '
+      + 'This paper proposed a guideline for a thorough and standardized occupant-behavior model documentation.'
+      + 'And presented a model-evaluation schema that enabled benchmarking of different models in field settings as well as the recommendations on how OB models are integrated with the building system.',
+  },
+  {
     title: 'Human Mobility Tracking',
     subtitle: 'Visualization of Human Mobility Tracking',
     publish: false,
