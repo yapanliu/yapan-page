@@ -5,7 +5,7 @@ const data = [
     subtitle: 'Visualization of Human Mobility Tracking',
     publish: true,
     paperLink: 'https://doi.org/10.1016/j.buildenv.2022.109195',
-    image: '/images/projects/bae-journal.jpg',
+    image: '/images/projects/bae-best-paper.jpg',
     link: 'https://www.linkedin.com/posts/building-and-environment_building-and-environment-is-pleased-to-announce-activity-7026788677871681537-EnbN?utm_source=share&utm_medium=member_desktop',
     date: '2023-02-01',
     desc:
