@@ -1,12 +1,12 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Research Highlighted by Syracuse CoE',
+    title: 'Research Highlighted by Syracuse University',
     subtitle: 'ASHRAE Global Occupant Behavior Database',
     publish: true,
     paperLink: 'https://doi.org/10.1038/s41597-022-01475-3',
     image: '/images/projects/ashrae-ob-database-global-contribution.webp',
-    link: 'https://www.linkedin.com/posts/syracuse-university-college-of-engineering-and-computer-science_syracuse-researchers-collaborate-to-create-activity-7044381415873871872-m-6W?utm_source=share&utm_medium=member_desktop',
+    link: 'https://news.syr.edu/blog/2023/03/24/syracuse-researchers-create-a-global-occupant-behavior-database-for-ashrae/',
     date: '2023-03-22',
     desc:
       'Syracuse Center of Excellence Associate Director and Mechanical and Aerospace Engineering Professor Bing Dong and several of his students have compiled research on how building occupants behave – more specifically, how they interact with building systems like windows, doors, light switches, thermostats and fans.',
