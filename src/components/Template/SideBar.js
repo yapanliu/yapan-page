@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Yapan Liu</h2>
-        <p>Ph.D. Candidate | Data Analyst <br /> Building Control Researcher</p>
+        <p>Ph.D. Candidate | Data Engineer <br /> Building Control Researcher</p>
         {/* <ContactIcons /> */}
       </header>
     </section>
@@ -31,7 +31,15 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">COPYRIGHT &copy;2022 BY YAPAN LIU <br /> Credit to <a href="https://github.com/mldangelo/personal-site" target="_blank" rel="noopener noreferrer">MICHAEL D&apos;ANGELO</a>.
+      <p className="copyright">
+        <a href="https://www.biblegateway.com/passage/?search=John+8%3A32&version=NKJV" target="_blank" rel="noopener noreferrer">
+          And you shall know the truth,
+          <br /> and the truth shall make you free.
+          <br /> John 8:32 NKJV
+        </a>
+        <br /> <br /> COPYRIGHT &copy;2022 BY YAPAN LIU <br />
+        Credit to <a href="https://github.com/mldangelo/personal-site" target="_blank" rel="noopener noreferrer">MICHAEL D&apos;ANGELO.</a>
+
       </p>
     </section>
   </section>
