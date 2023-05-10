@@ -1,5 +1,10 @@
 [comment]: <> (Publication List)
 
+*  [**Data-driven key performance indicators and datasets for building energy flexibility: A review and perspectives**](https://doi.org/10.1016/j.apenergy.2023.121217)  
+   Li, H., Johra, H., de Andrade Pereira, F., Hong, T., Le Dréau, J., Maturo, A., Wei M., **Liu, Y.**, ... & Dong, B.   
+	 Journal of Applied Energy  
+	 2023/8/1
+
 *  [**Extending the Brick schema to represent metadata of occupants**](https://doi.org/10.1016/j.autcon.2022.104307)  
    Luo, N., Fierro, G., **Liu, Y.**, Dong, B., & Hong, T.  
 	 Journal of Automation in Construction  

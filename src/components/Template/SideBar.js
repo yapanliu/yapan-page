@@ -37,7 +37,7 @@ const SideBar = () => (
           <br /> and the truth shall make you free.
           <br /> John 8:32 NKJV
         </a>
-        <br /> <br /> COPYRIGHT &copy;2022 BY YAPAN LIU <br />
+        <br /> <br /> COPYRIGHT &copy;2023 BY YAPAN LIU <br />
         Credit to <a href="https://github.com/mldangelo/personal-site" target="_blank" rel="noopener noreferrer">MICHAEL D&apos;ANGELO.</a>
 
       </p>
