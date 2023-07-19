@@ -5,6 +5,11 @@
 	 Journal of Applied Energy  
 	 2023/8/1
 
+*  [**ASHRAE URP-1883: Development and Analysis of the ASHRAE Global Occupant Behavior Database**](https://doi.org/10.1080/23744731.2023.2235971)  
+   **Liu, Y.**, Dong, B., Hong, T., Olesen, B., Lawrence, T., & O’Neill, Z.    
+	 Science and Technology for the Built Environment  
+	 2023/7/11
+
 *  [**Extending the Brick schema to represent metadata of occupants**](https://doi.org/10.1016/j.autcon.2022.104307)  
    Luo, N., Fierro, G., **Liu, Y.**, Dong, B., & Hong, T.  
 	 Journal of Automation in Construction  

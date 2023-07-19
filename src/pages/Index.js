@@ -20,7 +20,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 const Index = () => (
   <Main
     description={"Yapan Liu's personal website."
-    + 'Ph.D. Candidate from Syracuse University.'}
+      + 'Ph.D. Candidate from Syracuse University.'}
   >
     <article className="post" id="index">
       <header>
