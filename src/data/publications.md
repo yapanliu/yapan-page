@@ -1,5 +1,10 @@
 [comment]: <> (Publication List)
 
+*  [**Modeling urban scale human mobility through big data analysis and machine learning**](https://doi.org/10.1007/s12273-023-1043-z)  
+   **Liu, Y.**, Dong, B.    
+	 Journal of Building Simulation  
+	 2023/8/14
+
 *  [**Data-driven key performance indicators and datasets for building energy flexibility: A review and perspectives**](https://doi.org/10.1016/j.apenergy.2023.121217)  
    Li, H., Johra, H., de Andrade Pereira, F., Hong, T., Le Dréau, J., Maturo, A., Wei M., **Liu, Y.**, ... & Dong, B.   
 	 Journal of Applied Energy  
@@ -7,7 +12,7 @@
 
 *  [**ASHRAE URP-1883: Development and Analysis of the ASHRAE Global Occupant Behavior Database**](https://doi.org/10.1080/23744731.2023.2235971)  
    **Liu, Y.**, Dong, B., Hong, T., Olesen, B., Lawrence, T., & O’Neill, Z.    
-	 Science and Technology for the Built Environment  
+	 Journal of Science and Technology for the Built Environment  
 	 2023/7/11
 
 *  [**Extending the Brick schema to represent metadata of occupants**](https://doi.org/10.1016/j.autcon.2022.104307)  
