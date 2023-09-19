@@ -47,6 +47,7 @@ const Index = () => (
           Link: LinkRenderer,
         }}
         escapeHtml={false}
+        linkTarget="_blank"
       />
 
     </article>

@@ -6,9 +6,9 @@ Thank you for visiting my site. I look forward to sharing my work and insights w
 
 # Research Interests
 
-- Smart Cities
-- Human Mobility ([Demo](/blog#Human-Mobility-Tracking))
+- Human Mobility ([Demo](https://www.youtube.com/watch?v=m2b41ppw03w))
 - Smart Buildings
+- Experimental Sensing
 - Machine Learning
 - Reinforcement Learning for HVAC Control
 - Building to Grid Integration
@@ -17,7 +17,7 @@ Thank you for visiting my site. I look forward to sharing my work and insights w
 - EV Charging Behavior and Control
 
 # Other Interests
-- Web Development
+- Web Development ([ASHRAE Global Occupant Behavior Database](https://ashraeobdatabase.com))
 - Data Visualization and Analytics
 - Internet of Things (IoT) Technologies
 - Geographic Information Systems (GIS) Technologies
