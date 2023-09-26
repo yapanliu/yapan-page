@@ -24,6 +24,8 @@ const sections = [
   'Courses',
 ];
 
+const cvPath = '../../files/CV-Yapan_Liu-WebsiteVersion-09252023.pdf';
+
 const Resume = () => (
   <Main
     title="CV"
@@ -32,7 +34,7 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="cv">Curriculum Vitae</Link></h2>
+          <h2 data-testid="heading"><Link to="cv">Curriculum Vitae</Link>  <a href={cvPath} target="_blank" rel="noopener noreferrer">(PDF)</a></h2>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>

@@ -5,10 +5,13 @@ const positions = [
     link: 'http://bestlab.syr.edu/',
     daterange: 'August 2019 - Present',
     points: [
-      'Process geospatial data and time-series data through big data analytics',
-      'Use machine learning to study human mobility and occupant behaviors at urban scale',
-      'Develop advanced building control algorithms (e.g. MPC, Reinforcement Learning)',
-      'Dedicated to presenting research results using visualization techniques',
+      'Led the development of Global Occupant Behavior Database for ASHRAE',
+      'Processed geospatial data and time-series data through big data analytics',
+      'Designed a benchmarking website for machine learning models focused on occupant behavior',
+      'Leveraged machine learning to study human mobility and occupant behaviors at an urban scale',
+      'Created advanced building-to-grid and building control algorithms (e.g. MPC, Reinforcement Learning)',
+      'Set up a comprehensive building sensing network, achieving automated data collection and analysis',
+      'Developed various advanced data visualization techniques to present research results',
     ],
   },
   {
@@ -17,10 +20,11 @@ const positions = [
     link: 'https://www.automodality.com/',
     daterange: 'September 2018 - August 2019',
     points: [
-      'Presenting UsPLM product at different conferences: 2018 New York UAS Symposium, 2019 Syracuse Tech Week and AUVSI XPONENTIAL 2019',
-      'Analyze flight log data using Python programming language',
-      'Build 3D drone models and make animations by using FreeCAD and Blender software',
-      'Work with Cesium software to simulate drone missions',
+
+      'Presented the UsPLM product at multiple conferences, including the 2018 New York UAS Symposium, 2019 Syracuse Tech Week, and AUVSI XPONENTIAL 2019.',
+      'Analyzed flight log data utilizing Python to derive in-depth understanding of drone missions.',
+      'Designed and animated 3D drone models using FreeCAD and Blender.',
+      'Collaborated with the team using Cesium software to simulate and optimize drone missions.',
     ],
   },
   {
@@ -29,9 +33,9 @@ const positions = [
     link: 'https://www.marquardt-switches.com/index.html?&no_cache=1',
     daterange: 'July 2017 - September 2017',
     points: [
-      'Collaborated with 6 engineers in a cross-functional team to optimize a new assembly line',
-      'Collected data, built a model, and implemented simulation using Arena software',
-      'Analyzed and optimized simulation results by reducing the number of operators from 6 to 5',
+      'Collaborated with a cross-functional team of 6 engineers, focusing on optimizing a newly-introduced assembly line.',
+      'Gathered relevant data, constructed a robust model, and executed detailed simulations leveraging Arena software.',
+      'Achieved operational efficiency by analyzing simulation outcomes and strategically reducing operator count from 6 to 5.',
     ],
   },
   {
@@ -40,9 +44,9 @@ const positions = [
     link: 'http://en.yos.net.cn/',
     daterange: 'July 2014 - April 2015',
     points: [
-      'Assist to develop 6 new products using the process of Advanced Product Quality Planning (APQP)',
-      'Worked with a group of 10 engineers by using the skill of problem-solving',
-      'Reviewed product design by using NX software and monitored the pre-production process',
+      'Assisted in the development of 6 new products, utilizing the Advanced Product Quality Planning (APQP) process.',
+      'Collaborated with a team of 10 engineers, leveraging problem-solving skills to streamline and facilitate the development process.',
+      'Reviewed and optimized product designs utilizing NX software, and monitored the pre-production stages meticulously to uphold quality standards.',
     ],
   },
 ];
