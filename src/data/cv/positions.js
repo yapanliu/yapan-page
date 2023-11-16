@@ -5,6 +5,8 @@ const positions = [
     link: 'http://bestlab.syr.edu/',
     daterange: 'August 2019 - Present',
     points: [
+      'Developed Python-EnergyPlus co-simulation algorithms for building energy modeling',
+      'Enhanced building energy models with occupant behavior integration in EnergyPlus',
       'Led the development of Global Occupant Behavior Database for ASHRAE',
       'Processed geospatial data and time-series data through big data analytics',
       'Designed a benchmarking website for machine learning models focused on occupant behavior',
