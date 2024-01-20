@@ -1,6 +1,7 @@
 [comment]: <> (Publication List)
 
 *  [**Modeling urban scale human mobility through big data analysis and machine learning**](https://doi.org/10.1007/s12273-023-1043-z)  
+*  *Jan. 2024 Building Simulation Cover Article*  
    **Liu, Y.**, Dong, B.    
 	 Journal of Building Simulation  
 	 2023/8/14

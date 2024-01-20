@@ -1,7 +1,7 @@
 # Intro
 
 Greetings and welcome to my website.  
-I am currently a doctoral candidate at Syracuse University, New York, specializing in the application of sophisticated machine learning tools for the optimization of building-level control and energy conservation. My research extends to study the large-scale human mobility data at the urban level. This allows me to capture the dynamics of city life and gain a deeper understanding of human behaviors within urban environments.  
+As a Ph.D. Candidate at Syracuse University, I specialize in leveraging advanced machine learning tools to optimize and simulate HVAC control systems at the building level. My expertise extends to working with urban-scale human mobility data, enabling me to capture and analyze the dynamics of urban environments and understand human behaviors at the city level.  
 Thank you for visiting my site. I look forward to sharing my work and insights with you.
 
 # Research Interests

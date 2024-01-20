@@ -1,6 +1,28 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Research Paper was Chosen as Building Simulation Cover Article',
+    subtitle: 'ASHRAE Global Occupant Behavior Database',
+    publish: true,
+    paperLink: 'https://doi.org/10.1007/s12273-023-1043-z',
+    image: '/images/projects/BS_Cover_Article.jpg',
+    link: 'https://www.linkedin.com/posts/da-yan-5b150015_buildingsimulation-lstm-bigdata-activity-7152480655912656896-n2kA/?utm_source=share&utm_medium=member_desktop',
+    date: '2024-01-15',
+    desc:
+      'We propose a novel approach to predict urban scale daily human mobility patterns with 12-hour prediction horizon, using Long Short-Term Memory (LSTM) neural network model...',
+  },
+  {
+    title: 'Yapan was featured by Syracuse CoE',
+    subtitle: '',
+    publish: false,
+    paperLink: '',
+    image: '/images/projects/syracuse_center_of_excellence.jpg',
+    link: 'https://centerofexcellence.syracuse.edu/student-features-yapan-liu-and-xuezheng-wang/',
+    date: '2023-12-18',
+    desc:
+      '“For me, the biggest takeaway is the application of our major or research. I think the CoE provides us with a lot of opportunities to practice or apply our knowledge with hands-on work..."',
+  },
+  {
     title: 'Research Highlighted by Syracuse University',
     subtitle: 'ASHRAE Global Occupant Behavior Database',
     publish: true,
@@ -13,7 +35,7 @@ const data = [
   },
   {
     title: '2022 BAE Best Paper Award',
-    subtitle: 'Visualization of Human Mobility Tracking',
+    subtitle: '',
     publish: true,
     paperLink: 'https://doi.org/10.1016/j.buildenv.2022.109195',
     image: '/images/projects/bae-best-paper.jpg',
@@ -28,7 +50,7 @@ const data = [
     title: 'Human Mobility Tracking',
     subtitle: 'Visualization of Human Mobility Tracking',
     publish: false,
-    paperLink: 'https://arxiv.org/abs/2006.12345',
+    paperLink: '',
     image: '/images/projects/human_mobility_viz.png',
     link: 'https://youtu.be/m2b41ppw03w',
     date: '2022-10-20',
