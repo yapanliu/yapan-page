@@ -24,7 +24,7 @@ const sections = [
   'Courses',
 ];
 
-const cvPath = '../../files/CV-Yapan_Liu-WebsiteVersion-11132023.pdf';
+const cvPath = '../../files/CV-Yapan_Liu-01112024-OnlineVersion.pdf';
 
 const Resume = () => (
   <Main
