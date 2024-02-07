@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Building a Sustainable Future - by Syracuse University',
+    subtitle: 'BEST Lab was featured by Syracuse University',
+    publish: false,
+    paperLink: '',
+    image: '/images/projects/Building a Sustainable Future.webp',
+    link: 'https://www.syracuse.edu/stories/bing-dong-sustainable-engineering/',
+    date: '2024-01-24',
+    desc:
+      '“I feel like I can relate to Professor Dong,” says Liu of the rising star in smart building design and operation. “He passionately bridges the gap between academic research and real-world application.”',
+  },
+  {
     title: 'Research Paper was Chosen as Building Simulation Cover Article',
     subtitle: 'ASHRAE Global Occupant Behavior Database',
     publish: true,
