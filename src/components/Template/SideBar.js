@@ -13,14 +13,14 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Yapan Liu</h2>
-        <p>Ph.D. Candidate | Data Engineer <br /> Building Control Researcher</p>
+        <p>Ph.D. | HVAC Control | Building Simulation | Data Scientist | Human Mobility</p>
         {/* <ContactIcons /> */}
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hello, my name is Yapan Liu. I&apos;m a Ph.D. candidate in the Mechnical & Aerospace Engineering at Syracuse University. I work with <a href="https://ecs.syracuse.edu/faculty-staff/bing-dong" target="_blank" rel="noopener noreferrer"> Dr. Bing Dong</a> in the Built Environment Science & Technology<a href="http://bestlab.syr.edu/" target="_blank" rel="noopener noreferrer"> (BEST) Lab</a>.
+      <p>Hello, my name is Yapan Liu. I&apos;m a Ph.D. in the Mechnical & Aerospace Engineering at Syracuse University. I work with <a href="https://ecs.syracuse.edu/faculty-staff/bing-dong" target="_blank" rel="noopener noreferrer"> Dr. Bing Dong</a> in the Built Environment Science & Technology<a href="http://bestlab.syr.edu/" target="_blank" rel="noopener noreferrer"> (BEST) Lab</a>.
       </p>
       <ul className="actions">
         <li>
