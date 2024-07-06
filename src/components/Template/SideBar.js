@@ -20,7 +20,7 @@ const SideBar = () => (
       </header>
     </section>
 
-    <section className="blurb">
+    {/* <section className="blurb">
       <h2>About</h2>
       <p>Hello, my name is Yapan Liu. I&apos;m a Ph.D. in the Mechnical & Aerospace Engineering at Syracuse University. I work with <a href="https://ecs.syracuse.edu/faculty-staff/bing-dong" target="_blank" rel="noopener noreferrer"> Dr. Bing Dong</a> in the Built Environment Science & Technology<a href="http://bestlab.syr.edu/" target="_blank" rel="noopener noreferrer"> (BEST) Lab</a>.
       </p>
@@ -29,7 +29,7 @@ const SideBar = () => (
           <Link to="/cv" className="button">Learn More</Link>
         </li>
       </ul>
-    </section>
+    </section> */}
 
     <section id="footer">
       <ContactIcons />
@@ -39,7 +39,7 @@ const SideBar = () => (
           <br /> and the truth shall make you free.
           <br /> John 8:32 NKJV
         </a>
-        <br /> <br /> COPYRIGHT &copy;2023 BY YAPAN LIU <br />
+        <br /> <br /> COPYRIGHT &copy;2024 BY YAPAN LIU <br />
         Credit to <a href="https://github.com/mldangelo/personal-site" target="_blank" rel="noopener noreferrer">MICHAEL D&apos;ANGELO.</a>
 
       </p>
