@@ -15,8 +15,8 @@ const Index = lazy(() => import('./pages/Index'));
 const Publication = lazy(() => import('./pages/Publication'));
 const Conference = lazy(() => import('./pages/Conference'));
 const Blog = lazy(() => import('./pages/Blog'));
-const CV = lazy(() => import('./pages/CV'));
-const Teaching = lazy(() => import('./pages/Teaching'));
+// const CV = lazy(() => import('./pages/CV'));
+// const Teaching = lazy(() => import('./pages/Teaching'));
 // const Resume = lazy(() => import('./pages/Resume'));
 // const Stats = lazy(() => import('./pages/Stats'));
 // const Teaching = lazy(() => import('./pages/Teaching'));
@@ -32,9 +32,9 @@ const App = () => (
           {/* <Route path="/about" component={About} /> */}
           <Route path="/publication" component={Publication} />
           <Route path="/conference" component={Conference} />
-          <Route path="/teaching" component={Teaching} />
+          {/* <Route path="/teaching" component={Teaching} /> */}
           <Route path="/blog" component={Blog} />
-          <Route path="/CV" component={CV} />
+          {/* <Route path="/CV" component={CV} /> */}
 
           {/* <Route path="/stats" component={Stats} /> */}
           {/* <Route path="/contact" component={Contact} /> */}

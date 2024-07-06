@@ -1,8 +1,10 @@
 # Intro
 
 Greetings and welcome to my website.  
-As a Ph.D. at Syracuse University, I specialize in leveraging advanced machine learning tools to optimize and simulate HVAC control systems at the building level. My expertise extends to working with urban-scale human mobility data, enabling me to capture and analyze the dynamics of urban environments and understand human behaviors at the city level.  
-Thank you for visiting my site. I look forward to sharing my work and insights with you.
+
+Yapan has recently joined Fraunhofer USA CMI as a Project Engineer within the Building Energy Systems team. With a strong background in building simulation and a commitment to advancing sustainable building technologies, Yapan is dedicated to driving innovation and efficiency in building energy systems. His expertise includes building occupant behavior at urban scale, building-to-grid integration, vehicles-to-grid integration, and the development of cutting-edge solutions to enhance energy performance in urban environments.
+
+Yapan holds a Ph.D. in Mechanical Engineering from Syracuse University, where his research focused on sustainable energy practices and the integration of advanced technologies in building systems at urban scale. Passionate about creating energy-efficient solutions, Yapan is excited to contribute to Fraunhofer USA CMI's mission of promoting sustainable energy systems and environmental stewardship.
 
 # Research Interests
 

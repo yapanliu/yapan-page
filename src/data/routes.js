@@ -20,18 +20,18 @@ const routes = [
   //   label: 'Projects',
   //   path: '/projects',
   // },
-  {
-    label: 'Teaching',
-    path: '/teaching',
-  },
+  // {
+  //   label: 'Teaching',
+  //   path: '/teaching',
+  // },
   {
     label: 'BLOG',
     path: '/blog',
   },
-  {
-    label: 'CV',
-    path: '/cv',
-  },
+  // {
+  //   label: 'CV',
+  //   path: '/cv',
+  // },
 
   // {
   //   label: 'Resume',

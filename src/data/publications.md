@@ -1,7 +1,12 @@
 [comment]: <> (Publication List)
 
+*  [**Urban Scale Vehicle-To-Building-To-Grid Integration Leveraging Human Mobility Modeling**](https://surface.syr.edu/etd/1888/)  
+   **Liu, Y.**    
+	 Dissertation  
+	 2024/6/14
+
 *  [**Modeling urban scale human mobility through big data analysis and machine learning**](https://doi.org/10.1007/s12273-023-1043-z)  
-   *Jan. 2024 Building Simulation Cover Article*  
+   **Jan. 2024 Building Simulation Cover Article**  
    **Liu, Y.**, Dong, B.    
 	 Journal of Building Simulation  
 	 2023/8/14
@@ -27,7 +32,7 @@
 	 2022/6/28   
 
 *  [**A guideline to document occupant behavior models for advanced building controls**](https://doi.org/10.1016/j.buildenv.2022.109195)  
-   *2022 Best Paper Award - Building and Environment*  
+   **2022 Best Paper Award - Building and Environment**  
 	 Dong, B., Markovic, R., Carlucci, S., **Liu, Y.**, Wagner, A., Liguori, A., ... & Kang, X.  
 	 Journal of Building and Environment  
 	 2022/5/20   

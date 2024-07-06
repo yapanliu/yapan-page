@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'All University Doctoral Prize - Syracuse University',
+    subtitle: '',
+    publish: false,
+    paperLink: '',
+    image: '/images/projects/arnaud-girault-zWOgtUIX7OE-unsplash.jpg',
+    link: '',
+    date: '2024-05-12',
+    desc:
+      'Yapan was awared the All University Doctorl Prize! This prize is awarded annually to doctoral students in each of Syracuse University’s 11 schools and colleges who have demonstrated originality, contribution to the field, creativity, methodology, soundness, and quality of writing in their dissertation. (Image from unsplash)',
+  },
+  {
     title: 'Building a Sustainable Future - by Syracuse University',
     subtitle: 'BEST Lab was featured by Syracuse University',
     publish: false,

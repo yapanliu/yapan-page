@@ -13,7 +13,9 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Yapan Liu</h2>
-        <p>Ph.D. | HVAC Control | Building Simulation | Data Scientist | Human Mobility</p>
+        <p>Ph.D. | Project Engineer | Building Energy Researcher
+          | Data Scientist
+        </p>
         {/* <ContactIcons /> */}
       </header>
     </section>
